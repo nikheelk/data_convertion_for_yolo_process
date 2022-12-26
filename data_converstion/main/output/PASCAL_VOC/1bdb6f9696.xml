@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>1bdb6f9696.jpg</filename>
+  <path>D:\Analytix_notes\deep_learning_AI\AI &amp; DL MAR 22 _ Class 22 AI &amp; Deep Learning April 22\yolo_preprocessing - 1657377383753\data_converstion\main\input\1bdb6f9696.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3900</width>
+    <height>2600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cow</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1466</xmin>
+      <ymin>115</ymin>
+      <xmax>3455</xmax>
+      <ymax>2231</ymax>
+    </bndbox>
+  </object>
+</annotation>
